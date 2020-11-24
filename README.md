@@ -1,11 +1,6 @@
 SandraJinnevall/ramverk1-module
 ======================
 
-[![Build Status](https://travis-ci.com/SandraJinnevall/ramverk1-module.svg?branch=master)](https://travis-ci.com/SandraJinnevall/ramverk1-module)
-[![Build Status](https://scrutinizer-ci.com/g/iFaxity/SandraJinnevall/ramverk1-module/badges/build.png?b=master)](https://scrutinizer-ci.com/g/SandraJinnevall/ramverk1-module/build-status/master)
-[![Code Coverage](https://scrutinizer-ci.com/g/SandraJinnevall/ramverk1-module/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/SandraJinnevall/ramverk1-module/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/SandraJinnevall/ramverk1-module/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/SandraJinnevall/ramverk1-module/?branch=master)
-
 ## Installation
 
 Instrallera genom att köra kommandot i mappen:
