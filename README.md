@@ -7,10 +7,6 @@ Instrallera genom att köra kommandot i mappen:
 
 `composer require sandrajinnevall/ramverk1-module`
 
-Lägg till följande rad i composer.json:
-
-`"require": { "sandrajinnevall/ramverk1-module": "^1.0.5" }`
-
 Lägg till filerna i rätt mapp genom att köra:
 
 ```bash
