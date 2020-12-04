@@ -1,4 +1,4 @@
-https://travis-ci.com/SandraJinnevall/ramverk1-module.svg?branch=main
+[![Build Status](https://travis-ci.com/SandraJinnevall/ramverk1-module.svg?branch=main)](https://travis-ci.com/SandraJinnevall/ramverk1-module)
 
 SandraJinnevall/ramverk1-module
 ======================
