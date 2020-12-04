@@ -1,3 +1,5 @@
+https://travis-ci.com/SandraJinnevall/ramverk1-module.svg?branch=main
+
 SandraJinnevall/ramverk1-module
 ======================
 
