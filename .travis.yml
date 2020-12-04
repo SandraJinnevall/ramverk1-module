@@ -1,7 +1,7 @@
 language: php
 
 php:
-    - "7.2"
+    - "7.4"
     - hhvm
     - nightly
 
@@ -16,7 +16,8 @@ git:
     submodules: false
 
 before_script:
-    - make install
+    - make install check
+    - composer update
 
 script:
     - make test
