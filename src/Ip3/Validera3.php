@@ -32,7 +32,8 @@ class Validera3 implements ContainerInjectableInterface
 
     public function getCurrentIP()
     {
-        $ipadress = isset($_SERVER['HTTP_CLIENT_IP']) ? $_SERVER['HTTP_CLIENT_IP'] : ((isset($_SERVER['HTTP_X_FORWARDED_FOR'])) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $_SERVER['REMOTE_ADDR']);
+        $remote = $_SERVER["REMOTE_ADDR"] ?? '127.0.0.1';
+        $ipadress = isset($_SERVER['HTTP_CLIENT_IP']) ? $_SERVER['HTTP_CLIENT_IP'] : ((isset($_SERVER['HTTP_X_FORWARDED_FOR'])) ? $_SERVER['HTTP_X_FORWARDED_FOR'] : $remote]);
         return $ipadress;
     }
 
