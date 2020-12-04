@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/SandraJinnevall/ramverk1-module.svg?branch=main)](https://travis-ci.com/SandraJinnevall/ramverk1-module)
-[![CircleCI](https://app.circleci.com/pipelines/github/SandraJinnevall/ramverk1-module.svg?style=svg)](https://app.circleci.com/pipelines/github/SandraJinnevall/ramverk1-module)
+[![CircleCI](https://circleci.com/gh/SandraJinnevall/ramverk1-module.svg?style=svg)](https://app.circleci.com/pipelines/github/SandraJinnevall/ramverk1-module)
 
 SandraJinnevall/ramverk1-module
 ======================
